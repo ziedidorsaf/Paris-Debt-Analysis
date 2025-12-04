@@ -69,13 +69,3 @@ Document : *Validation_avec_SQL.pdf*
 4. Optimiser la stratégie obligations vs banques  
 5. Simuler des scénarios de stress financier  
 6. Ajouter des alertes et analyses automatisées dans Power BI  
-
----
-
-##  Perspectives
-- Ajouter données postérieures à 2016  
-- Comparaison avec autres grandes villes  
-- Analyses prédictives  
-- Automatisation complète de la chaîne  
-
----
