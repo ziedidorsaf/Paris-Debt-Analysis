@@ -1,0 +1,611 @@
+﻿annee_de_publication,nature,organisme_preteur_ou_chef_de_file,date_d_emission,date_de_derniere_echeance,capital_initial,capital_restant,type_de_taux_d_interet,index,taux_initial_niveau_de_taux,taux_initial_taux_actuariel,profil_d_amortissement,possibilite_de_remboursement
+2010,1641 - Emprunts établissements crédit,DEXIA CREDIT LOCAL,2003-12-22,2013-12-22,35000000.0,35000000.0,Indexé,TAG06M,0.1581,1.9644,Emprunt in fine,1
+2012,1641 - Emprunts établissements crédit,SOCIETE GENERALE,2005-12-28,2019-12-28,25000000.0,25000000.0,Indexé,TAG01M,0.0,1.0218,Emprunt in fine,1
+2012,1641 - Emprunts établissements crédit,BNP Paribas,2009-12-30,2021-12-29,25000000.0,25000000.0,Indexé,EURIBOR03M,0.421,0.7061000000000001,Emprunt in fine,1
+2008,16441 - Emprunts option tirage tréso,Caisse Nat. C.E.,2004-12-17,2010-12-17,75000000.0,75000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2009,16311 - Emissions obligataires,HSBC,2005-11-09,2018-11-09,50651230.1,50651230.1,Indexé,EURIBOR03M,0.021,1.3865,Emprunt in fine,1
+2009,16311 - Emissions obligataires,Calyon-Dexia,2006-11-28,2014-11-28,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8752,Emprunt in fine,1
+2017,16311 - Emissions obligataires,89 - SocGen (arrangeur),2013-10-01,2026-10-01,75000000.0,75000000.0,Fixe,TAUX FIXE,3.049,3.0492,Emprunt in fine,0
+2013,16311 - Emissions obligataires,Natixis,2013-10-17,2028-10-17,50000000.0,50000000.0,Fixe,TAUX FIXE,3.15,3.1501,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Goldman Sachs,2016-07-05,2030-05-25,50000000.0,50000000.0,Fixe,TAUX FIXE,1.214,1.2147,Emprunt in fine,0
+2008,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-01-14,24405125.08,24405125.08,Indexé,EURIBOR04M,0.021,1.1414,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,Helaba,2015-03-13,2040-03-13,50000000.0,50000000.0,Fixe,TAUX FIXE,1.543,1.5432,Emprunt in fine,1
+2012,16311 - Emissions obligataires,Crédit Suisse,2009-12-10,2020-01-10,49715000.0,49715000.0,Indexé,EURIBOR03M,0.385,0.7033,Emprunt in fine,1
+2008,16441 - Emprunts option tirage tréso,SOCIETE GENERALE,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2013,16311 - Emissions obligataires,HSBC,2011-12-29,2026-12-29,21000000.0,21000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,1
+2007,1641 - Emprunts établissements crédit,C.E. I.D.F PARIS,1998-12-28,2007-12-28,15244901.72,0.0,Indexé,EURIBOR06M,4.726,3.2789,Emprunt in fine,1
+2014,16311 - Emissions obligataires,BNP Paribas,2005-11-24,2014-11-24,96618357.49,0.0,Indexé,EURIBOR03M,0.101,1.9012,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,2 - C.D.C.,2016-11-30,2036-12-01,50000000.0,47500000.0,Fixe,TAUX FIXE,0.0,0.0,Amort. constant ou progressif,0
+2017,16311 - Emissions obligataires,92 - HSBC,2014-03-21,2029-12-14,50000000.0,50000000.0,Fixe,TAUX FIXE,2.85,2.8507,Emprunt in fine,0
+2012,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2017-12-31,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2009,1641 - Emprunts établissements crédit,BEI,2006-12-28,2010-12-28,50000000.0,50000000.0,Indexé,EURIBOR03M,0.801,2.8883,Emprunt in fine,1
+2011,16441 - Emprunts option tirage tréso,CREDIT FONCIER,2005-12-30,2012-12-30,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2010,16311 - Emissions obligataires,Dexia - Morgan Stanley,2005-06-24,2015-06-24,120000000.0,120000000.0,Fixe,TAUX FIXE,3.25,3.2502,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,BNP Paribas,2009-12-30,2021-12-29,25000000.0,25000000.0,Indexé,EURIBOR03M,0.07,0.5342,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,31 - Helaba,2015-01-13,2024-12-13,40000000.0,40000000.0,Fixe,TAUX FIXE,1.125,1.1259,Emprunt in fine,1
+2008,1641 - Emprunts établissements crédit,DEXIA CREDIT LOCAL,2003-12-22,2013-12-22,35000000.0,35000000.0,Indexé,TAG06M,0.1581,1.9644,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,96 - BEI,2011-12-19,2025-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.369,3.3692,Emprunt in fine,0
+2014,16311 - Emissions obligataires,HSBC-Natixis,2007-12-04,2020-12-04,160000000.0,160000000.0,Fixe,TAUX FIXE,4.5,4.5001,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Natixis,2013-04-30,2032-04-30,15000000.0,15000000.0,Indexé,EURIBOR03M,0.374,0.4509,Emprunt in fine,0
+2008,16441 - Emprunts option tirage tréso,CREDIT FONCIER,2005-12-30,2012-12-30,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Natixis,2013-04-30,2032-04-30,15000000.0,15000000.0,Indexé,EURIBOR03M,0.725,0.7559,Emprunt in fine,1
+2011,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2008-10-30,2021-10-29,155000000.0,155000000.0,Fixe,TAUX FIXE,4.75,4.7501,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,31 - Helaba,2015-09-18,2038-10-25,15000000.0,15000000.0,Fixe,TAUX FIXE,2.103,2.1033,Emprunt in fine,1
+2010,16311 - Emissions obligataires,Crédit Suisse,2009-12-10,2020-01-10,49715000.0,49715000.0,Indexé,EURIBOR03M,0.385,0.7033,Emprunt in fine,1
+2009,16311 - Emissions obligataires,HSBC-Natixis,2007-12-04,2020-12-04,160000000.0,160000000.0,Fixe,TAUX FIXE,4.5,4.5001,Emprunt in fine,1
+2015,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2017-12-31,100000000.0,35000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2009,1641 - Emprunts établissements crédit,LANDESBANK BERLIN AG,1996-12-02,2011-12-02,83846959.48,83846959.48,Fixe,TAUX FIXE,5.95,5.9497,Emprunt in fine,1
+2017,16311 - Emissions obligataires,100 - HSBC-Natixis-Banca IMI,2009-06-29,2022-06-29,200000000.0,200000000.0,Fixe,TAUX FIXE,4.625,4.6251,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,2 - C.D.C.,2016-11-30,2042-03-01,30000000.0,29251066.46,Fixe,TAUX FIXE,1.471856,1.4857,Échéance constante,0
+2017,1641 - Emprunts établissements crédit,9 - SOCIETE GENERALE,2005-12-28,2019-12-28,25000000.0,25000000.0,Indexé,TAG01M,0.0,1.0218,Emprunt in fine,0
+2011,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,100000000.0,100000000.0,Fixe,TAUX FIXE,3.781,3.7811,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,BNP Paribas,2002-12-27,2017-12-27,110000000.0,110000000.0,Indexé,T4M,0.0,1.6052,Emprunt in fine,1
+2009,1641 - Emprunts établissements crédit,CREDIT FONCIER,2003-12-22,2018-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.1776,1.3408,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,96 - BEI,2017-12-11,2037-12-11,71500000.0,71500000.0,Fixe,TAUX FIXE,1.151,1.1518,Amort. constant ou progressif,0
+2007,16311 - Emissions obligataires,HSBC,2005-11-16,2015-11-16,14888865.0,14888865.0,Indexé,EURIBOR03M,-0.012,1.7396,Emprunt in fine,1
+2012,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2013-12-31,50000000.0,25000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2010,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1976-01-01,2024-06-15,59348.4,59348.4,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2014,16311 - Emissions obligataires,Natixis,2013-10-17,2028-10-17,50000000.0,50000000.0,Fixe,TAUX FIXE,3.15,3.1501,Emprunt in fine,0
+2013,16311 - Emissions obligataires,HSBC-Natixis,2007-12-04,2020-12-04,160000000.0,160000000.0,Fixe,TAUX FIXE,4.5,4.5001,Emprunt in fine,1
+2011,1641 - Emprunts établissements crédit,LANDESBANK BERLIN AG,1996-12-02,2011-12-02,83846959.48,0.0,Fixe,TAUX FIXE,5.95,5.9497,Emprunt in fine,1
+2011,16311 - Emissions obligataires,HSBC,2011-12-29,2026-12-29,21000000.0,21000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,1
+2007,16441 - Emprunts option tirage tréso,CREDIT FONCIER,2001-12-21,2008-12-01,55643891.29,38112254.31,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2009,16311 - Emissions obligataires,HSBC,2005-11-16,2015-11-16,14888865.0,14888865.0,Indexé,EURIBOR03M,-0.012,1.7396,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2010-12-29,2025-12-29,140000000.0,140000000.0,Fixe,TAUX FIXE,3.875,3.8751,Emprunt in fine,0
+2017,16311 - Emissions obligataires,103 - Crédit Agricole,2015-09-29,2037-09-29,20000000.0,20000000.0,Fixe,TAUX FIXE,2.08,2.0802,Emprunt in fine,0
+2009,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2013-12-31,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2017,16311 - Emissions obligataires,89 - SocGen (arrangeur),2015-03-16,2030-05-25,110000000.0,110000000.0,Fixe,TAUX FIXE,1.214,1.2145,Emprunt in fine,0
+2009,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-01-14,24405125.08,24405125.08,Indexé,EURIBOR04M,0.021,1.1414,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC,2012-07-20,2032-07-20,50000000.0,50000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,0
+2014,16311 - Emissions obligataires,Deutsche Bank,2012-04-02,2027-04-02,100000000.0,100000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2007,16441 - Emprunts option tirage tréso,Caisse Nat. C.E.,2004-12-17,2012-12-17,75000000.0,75000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2015,16311 - Emissions obligataires,HSBC-Natixis-Banca IMI,2009-06-29,2022-06-29,200000000.0,200000000.0,Fixe,TAUX FIXE,4.625,4.6251,Emprunt in fine,0
+2017,16311 - Emissions obligataires,92 - HSBC,2012-04-02,2027-04-02,50000000.0,50000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2011,1641 - Emprunts établissements crédit,BEI,2010-07-21,2023-07-21,100000000.0,100000000.0,Fixe,TAUX FIXE,3.451,3.4512,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Goldman Sachs,2012-10-25,2029-10-25,70000000.0,70000000.0,Fixe,TAUX FIXE,3.02,3.0201,Emprunt in fine,1
+2012,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-01-14,24405125.08,24405125.08,Indexé,EURIBOR04M,0.021,1.1414,Emprunt in fine,1
+2007,1641 - Emprunts établissements crédit,C.D.C.,1978-10-16,2008-02-25,7622450.86,319557.24,Fixe,TAUX FIXE,5.426386,9.5103,Échéance constante,1
+2012,16311 - Emissions obligataires,Calyon-Dexia,2006-11-28,2014-11-28,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8752,Emprunt in fine,1
+2013,16311 - Emissions obligataires,HSBC,2012-07-20,2032-07-20,50000000.0,50000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,1
+2015,16311 - Emissions obligataires,HSBC,2012-10-26,2026-01-20,30000000.0,30000000.0,Fixe,TAUX FIXE,2.909,2.9097,Emprunt in fine,0
+2011,1641 - Emprunts établissements crédit,BNP Paribas,2002-12-27,2017-12-27,110000000.0,110000000.0,Indexé,T4M,0.0013,1.6055,Emprunt in fine,1
+2011,16441 - Emprunts option tirage tréso,Caisse Nat. C.E.,2004-12-17,2012-12-17,75000000.0,75000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2015,16311 - Emissions obligataires,HSBC,2013-06-21,2028-06-21,75000000.0,75000000.0,Fixe,TAUX FIXE,2.886,2.8861,Emprunt in fine,0
+2010,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2008-10-30,2021-10-29,155000000.0,155000000.0,Fixe,TAUX FIXE,4.75,4.7501,Emprunt in fine,1
+2007,1641 - Emprunts établissements crédit,DEXIA CREDIT LOCAL,2003-12-22,2013-12-22,35000000.0,35000000.0,Indexé,TAG06M,0.1581,1.9644,Emprunt in fine,1
+2014,1641 - Emprunts établissements crédit,BNP Paribas,2002-12-27,2017-12-27,110000000.0,110000000.0,Indexé,T4M,0.0,1.6052,Emprunt in fine,1
+2013,1641 - Emprunts établissements crédit,C.D.C.,1954-11-23,2019-03-31,31064.74,5354.9,Fixe,TAUX FIXE,2.0,1.3381,Échéance constante,1
+2009,16311 - Emissions obligataires,Crédit Suisse,2009-12-10,2020-01-10,49715000.0,49715000.0,Indexé,EURIBOR03M,0.385,0.7033,Emprunt in fine,1
+2014,1641 - Emprunts établissements crédit,C.D.C.,1955-10-25,2020-03-31,5328.64,908.89,Fixe,TAUX FIXE,2.0,1.3806,Échéance constante,1
+2016,1641 - Emprunts établissements crédit,Helaba,2015-03-18,2039-03-18,40000000.0,40000000.0,Fixe,TAUX FIXE,1.2,1.2003,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC,2015-10-23,2045-10-23,35500000.0,35500000.0,Fixe,TAUX FIXE,2.1,2.1001,Emprunt in fine,0
+2013,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,100000000.0,100000000.0,Fixe,TAUX FIXE,3.781,3.7811,Emprunt in fine,1
+2015,16311 - Emissions obligataires,HSBC,2014-07-17,2031-07-17,70000000.0,70000000.0,Fixe,TAUX FIXE,2.51,2.5102,Emprunt in fine,0
+2011,1641 - Emprunts établissements crédit,DEXIA CREDIT LOCAL,2003-12-22,2013-12-22,35000000.0,35000000.0,Indexé,TAG06M,0.1581,1.9644,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC-SG-CA,2015-11-18,2031-05-25,300000000.0,300000000.0,Fixe,TAUX FIXE,1.75,1.7507,Emprunt in fine,0
+2017,16311 - Emissions obligataires,99 - HSBC-Natixis-SociétéGénérale,2008-10-30,2021-10-29,155000000.0,155000000.0,Fixe,TAUX FIXE,4.75,4.7501,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Deutsche Bank,2012-04-02,2027-04-02,100000000.0,100000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-02-14,24405125.08,24405125.08,Indexé,EURIBOR03M,-0.362,1.0522,Emprunt in fine,0
+2012,1641 - Emprunts établissements crédit,C.D.C.,1954-11-23,2019-03-31,31064.74,6187.14,Fixe,TAUX FIXE,2.0,1.3381,Échéance constante,1
+2015,16311 - Emissions obligataires,Crédit Agricole,2012-09-20,2026-01-20,100000000.0,100000000.0,Fixe,TAUX FIXE,2.909,2.9098,Emprunt in fine,0
+2013,16311 - Emissions obligataires,Société Générale,2011-07-13,2026-07-13,60000000.0,60000000.0,Fixe,TAUX FIXE,4.12,4.1201,Emprunt in fine,1
+2017,16311 - Emissions obligataires,10 - Natixis,2006-11-28,2019-11-28,100000000.0,100000000.0,Indexé,EURIBOR03M,-0.379,1.0156,Emprunt in fine,0
+2014,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2017-12-31,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,BEI,2008-11-25,2019-11-25,80000000.0,80000000.0,Indexé,EURIBOR03M,0.0,0.5649000000000001,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Société Générale,2013-10-01,2027-10-01,125000000.0,125000000.0,Fixe,TAUX FIXE,3.155,3.1552,Emprunt in fine,0
+2011,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-02-14,24405125.08,24405125.08,Indexé,EURIBOR03M,-0.002,1.0934,Emprunt in fine,1
+2015,16311 - Emissions obligataires,HSBC-Natixis,2007-12-04,2020-12-04,160000000.0,160000000.0,Fixe,TAUX FIXE,4.5,4.5001,Emprunt in fine,0
+2015,16311 - Emissions obligataires,HSBC,2015-09-16,2030-09-16,50000000.0,50000000.0,Fixe,TAUX FIXE,1.724,1.7243,Emprunt in fine,0
+2008,16311 - Emissions obligataires,HSBC-Natixis,2007-12-04,2020-12-04,160000000.0,160000000.0,Fixe,TAUX FIXE,4.5,4.5001,Emprunt in fine,1
+2014,16311 - Emissions obligataires,HSBC,2014-03-21,2029-12-14,50000000.0,50000000.0,Fixe,TAUX FIXE,2.85,2.8507,Emprunt in fine,0
+2014,16311 - Emissions obligataires,HSBC,2014-07-17,2031-07-17,70000000.0,70000000.0,Fixe,TAUX FIXE,2.51,2.5102,Emprunt in fine,0
+2007,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-02-14,24405125.08,24405125.08,Indexé,EURIBOR03M,-0.002,1.0934,Emprunt in fine,1
+2012,16311 - Emissions obligataires,HSBC,2010-12-02,2024-12-02,100000000.0,100000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,1
+2017,16876 - C.R.A.M.I.F / S.I.A.A.P.,27 - S.I.A.A.P.,1974-01-01,2021-06-15,26266.97,10506.77,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,0
+2008,16441 - Emprunts option tirage tréso,CREDIT FONCIER,2001-12-21,2008-12-01,55643891.29,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Crédit Agricole,2015-09-29,2037-09-29,20000000.0,20000000.0,Fixe,TAUX FIXE,2.08,2.0802,Emprunt in fine,0
+2017,16311 - Emissions obligataires,92 - HSBC,2017-09-04,2037-09-04,26000000.0,26000000.0,Fixe,TAUX FIXE,1.579,1.5793,Emprunt in fine,0
+2010,1641 - Emprunts établissements crédit,LANDESBANK BERLIN AG,1996-12-02,2011-12-02,83846959.48,83846959.48,Fixe,TAUX FIXE,5.95,5.9497,Emprunt in fine,1
+2015,16311 - Emissions obligataires,HSBC-Natixis,2006-05-26,2016-05-26,200000000.0,200000000.0,Fixe,TAUX FIXE,4.125,4.1252,Emprunt in fine,0
+2017,16311 - Emissions obligataires,10 - Natixis,2016-04-29,2029-04-30,26000000.0,26000000.0,Structuré,EURIBOR03M,0.0,0.0,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Natixis,2013-10-17,2028-10-17,50000000.0,50000000.0,Fixe,TAUX FIXE,3.15,3.1501,Emprunt in fine,0
+2017,16311 - Emissions obligataires,92 - HSBC,2015-10-23,2045-10-23,35500000.0,35500000.0,Fixe,TAUX FIXE,2.1,2.1001,Emprunt in fine,0
+2015,16311 - Emissions obligataires,HSBC,2005-11-16,2015-11-16,14888865.0,0.0,Indexé,EURIBOR03M,-0.084,1.7364000000000002,Emprunt in fine,0
+2015,16311 - Emissions obligataires,HSBC,2011-12-29,2026-12-29,21000000.0,21000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2008,16311 - Emissions obligataires,HSBC-Natixis,2006-05-26,2016-05-26,200000000.0,200000000.0,Fixe,TAUX FIXE,4.125,4.1252,Emprunt in fine,1
+2009,16311 - Emissions obligataires,Natixis,2006-11-28,2019-11-28,100000000.0,100000000.0,Indexé,EURIBOR03M,-0.008,1.1258,Emprunt in fine,1
+2013,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2005-12-30,2013-12-30,50000000.0,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,0
+2009,1641 - Emprunts établissements crédit,BNP Paribas,2009-12-30,2021-12-29,25000000.0,25000000.0,Indexé,EURIBOR03M,0.421,0.7061000000000001,Emprunt in fine,1
+2012,16311 - Emissions obligataires,HSBC-Natixis,2007-12-04,2020-12-04,160000000.0,160000000.0,Fixe,TAUX FIXE,4.5,4.5001,Emprunt in fine,1
+2015,16876 - C.R.A.M.I.F / S.I.A.A.P.,S.I.A.A.P.,1974-01-01,2021-06-15,26266.97,15760.17,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,0
+2008,1641 - Emprunts établissements crédit,C.D.C.,1954-11-23,2019-03-31,31064.74,9356.08,Fixe,TAUX FIXE,2.0,1.3381,Échéance constante,1
+2012,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-02-14,24405125.08,24405125.08,Indexé,EURIBOR03M,-0.002,1.0934,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,C.D.C.,1955-10-25,2020-03-31,5328.64,764.8,Fixe,TAUX FIXE,2.0,1.3806,Échéance constante,1
+2009,1641 - Emprunts établissements crédit,BEI,2008-11-25,2019-11-25,80000000.0,80000000.0,Indexé,EURIBOR03M,0.133,0.617,Emprunt in fine,1
+2010,16311 - Emissions obligataires,HSBC-Natixis-Banca IMI,2009-06-29,2022-06-29,200000000.0,200000000.0,Fixe,TAUX FIXE,4.625,4.6251,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Société Générale,2013-05-22,2028-05-22,50000000.0,50000000.0,Fixe,TAUX FIXE,2.43,2.4302,Emprunt in fine,0
+2015,16311 - Emissions obligataires,HSBC,2005-11-09,2018-11-09,50651230.1,50651230.1,Indexé,EURIBOR03M,-0.328,1.3105,Emprunt in fine,0
+2010,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2010-12-29,2025-12-29,140000000.0,140000000.0,Fixe,TAUX FIXE,3.875,3.8751,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Société Générale,2013-10-01,2026-10-01,75000000.0,75000000.0,Fixe,TAUX FIXE,3.049,3.0492,Emprunt in fine,0
+2015,1641 - Emprunts établissements crédit,Helaba,2015-03-18,2039-03-18,40000000.0,40000000.0,Fixe,TAUX FIXE,1.2,1.2003,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Crédit Agricole,2015-09-29,2035-09-29,20000000.0,20000000.0,Fixe,TAUX FIXE,2.006,2.0062,Emprunt in fine,0
+2016,1641 - Emprunts établissements crédit,BEI,2010-07-21,2023-07-21,100000000.0,100000000.0,Fixe,TAUX FIXE,3.451,3.4512,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,31 - Helaba,2014-03-21,2029-03-21,25000000.0,25000000.0,Fixe,TAUX FIXE,2.84,2.8401,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Calyon-Dexia,2006-11-28,2014-11-28,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8752,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC-Natixis-Citi,2016-04-06,2032-01-12,300000000.0,300000000.0,Fixe,TAUX FIXE,1.25,1.2503,Emprunt in fine,0
+2010,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2017-12-31,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2014,16311 - Emissions obligataires,Natixis,2006-11-28,2019-11-28,100000000.0,100000000.0,Indexé,EURIBOR03M,-0.083,1.0997,Emprunt in fine,0
+2014,16311 - Emissions obligataires,Société Générale,2013-05-22,2028-05-22,50000000.0,50000000.0,Fixe,TAUX FIXE,2.43,2.4302,Emprunt in fine,0
+2014,1641 - Emprunts établissements crédit,BEI,2011-12-19,2025-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.369,3.3692,Emprunt in fine,0
+2013,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.36,3.3601,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Crédit Suisse,2009-12-10,2020-01-10,49715000.0,49715000.0,Indexé,EURIBOR03M,0.022,0.5563,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Deutsche Bank,2012-04-02,2027-04-02,100000000.0,100000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2014,16311 - Emissions obligataires,Crédit Suisse-BNPP,2008-11-05,2018-11-05,95328884.65,95328884.65,Indexé,EURIBOR03M,0.041,0.6554,Emprunt in fine,0
+2010,1641 - Emprunts établissements crédit,BNP Paribas,2009-12-30,2021-12-29,25000000.0,25000000.0,Indexé,EURIBOR03M,0.421,0.7061000000000001,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,6 - CREDIT AGRICOLE IDF,2016-09-03,2026-03-03,873006.92,774263.81,Fixe,TAUX FIXE,3.5700000000000003,3.6199,Échéance constante,0
+2014,16311 - Emissions obligataires,Barclays,2013-04-18,2031-04-18,25000000.0,25000000.0,Indexé,EURIBOR03M,0.581,0.6184000000000001,Emprunt in fine,0
+2011,16311 - Emissions obligataires,Crédit Suisse-BNPP,2008-11-05,2018-11-05,95328884.65,95328884.65,Indexé,EURIBOR03M,0.119,0.6826,Emprunt in fine,1
+2009,1641 - Emprunts établissements crédit,SOCIETE GENERALE,2005-12-28,2019-12-28,25000000.0,25000000.0,Indexé,TAG01M,0.0,1.0218,Emprunt in fine,1
+2012,16311 - Emissions obligataires,Goldman Sachs,2011-11-25,2025-12-29,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8757,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Natixis,2006-11-28,2019-11-28,100000000.0,100000000.0,Indexé,EURIBOR03M,-0.008,1.1258,Emprunt in fine,1
+2011,16311 - Emissions obligataires,BNP Paribas,2005-11-24,2014-11-24,96618357.49,96618357.49,Indexé,EURIBOR03M,0.101,1.9012,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,Helaba,2015-03-13,2040-03-13,50000000.0,50000000.0,Fixe,TAUX FIXE,1.543,1.5432,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC,2011-12-29,2026-12-29,21000000.0,21000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2012,1641 - Emprunts établissements crédit,CREDIT AGRICOLE IDF,2003-12-22,2013-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.16,1.8763,Emprunt in fine,1
+2013,16311 - Emissions obligataires,BNP Paribas,2005-11-24,2014-11-24,96618357.49,96618357.49,Indexé,EURIBOR03M,0.101,1.9012,Emprunt in fine,1
+2010,1641 - Emprunts établissements crédit,C.D.C.,1955-10-25,2020-03-31,5328.64,1457.56,Fixe,TAUX FIXE,2.0,1.3806,Échéance constante,1
+2009,168 Autres emprunts et dettes assimilées,CAISSE NATION. ASSURANCE VIELL,1978-01-01,2010-10-31,269850.92,8997.38,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2011,1641 - Emprunts établissements crédit,BNP Paribas,2009-12-30,2021-12-29,25000000.0,25000000.0,Indexé,EURIBOR03M,0.421,0.7061000000000001,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Citi,2013-12-11,2029-01-15,60000000.0,60000000.0,Fixe,TAUX FIXE,3.0,3.0001,Emprunt in fine,0
+2015,1641 - Emprunts établissements crédit,BNP Paribas,2009-12-30,2021-12-29,25000000.0,25000000.0,Indexé,EURIBOR03M,0.117,0.5543,Emprunt in fine,0
+2017,16311 - Emissions obligataires,10 - Natixis,2013-12-12,2033-12-12,20000000.0,20000000.0,Fixe,TAUX FIXE,3.24,3.2401,Emprunt in fine,0
+2010,1641 - Emprunts établissements crédit,CREDIT AGRICOLE IDF,2003-12-22,2013-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.16,1.8763,Emprunt in fine,1
+2013,16311 - Emissions obligataires,HSBC,2012-10-02,2023-10-02,30000000.0,30000000.0,Fixe,TAUX FIXE,2.6,2.6002,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,C.D.C.,1954-12-21,2019-03-31,4278.21,379.64,Fixe,TAUX FIXE,2.0,1.341,Échéance constante,1
+2010,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2013-12-31,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2009,16441 - Emprunts option tirage tréso,SOCIETE GENERALE,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2012,16311 - Emissions obligataires,HSBC,2012-07-20,2032-07-20,50000000.0,50000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,1
+2011,16311 - Emissions obligataires,HSBC,2005-11-16,2015-11-16,14888865.0,14888865.0,Indexé,EURIBOR03M,-0.012,1.7396,Emprunt in fine,1
+2010,16441 - Emprunts option tirage tréso,SOCIETE GENERALE,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2014,1641 - Emprunts établissements crédit,BEI,2008-11-25,2019-11-25,80000000.0,80000000.0,Indexé,EURIBOR03M,0.057,0.5859,Emprunt in fine,0
+2007,16441 - Emprunts option tirage tréso,DEKABANK DEUTSCHE GIROZENTRALE,2001-12-28,2007-12-28,68602057.76,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2012,16311 - Emissions obligataires,HSBC,2005-11-09,2018-11-09,50651230.1,50651230.1,Indexé,EURIBOR03M,0.021,1.3865,Emprunt in fine,1
+2015,16876 - C.R.A.M.I.F / S.I.A.A.P.,S.I.A.A.P.,1976-01-01,2024-06-15,59348.4,53413.56,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,0
+2014,16311 - Emissions obligataires,HSBC,2013-06-21,2028-06-21,75000000.0,75000000.0,Fixe,TAUX FIXE,2.886,2.8861,Emprunt in fine,0
+2016,16311 - Emissions obligataires,HSBC,2005-11-09,2018-11-09,50651230.1,50651230.1,Indexé,EURIBOR03M,-0.358,1.3062,Emprunt in fine,0
+2012,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,BEI,2011-12-19,2025-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.369,3.3692,Emprunt in fine,0
+2013,1641 - Emprunts établissements crédit,C.D.C.,1954-12-21,2019-03-31,4278.21,737.43,Fixe,TAUX FIXE,2.0,1.341,Échéance constante,1
+2013,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2010-12-29,2025-12-29,140000000.0,140000000.0,Fixe,TAUX FIXE,3.875,3.8751,Emprunt in fine,1
+2014,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,100000000.0,100000000.0,Fixe,TAUX FIXE,3.781,3.7811,Emprunt in fine,0
+2008,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2013-12-31,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC,2016-04-19,2038-04-19,35000000.0,35000000.0,Fixe,TAUX FIXE,1.512,1.5122,Emprunt in fine,0
+2014,16311 - Emissions obligataires,HSBC,2005-11-09,2018-11-09,50651230.1,50651230.1,Indexé,EURIBOR03M,-0.054,1.3664,Emprunt in fine,0
+2009,16311 - Emissions obligataires,HSBC-Natixis,2006-05-26,2016-05-26,200000000.0,200000000.0,Fixe,TAUX FIXE,4.125,4.1252,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Crédit Suisse-BNPP,2008-11-05,2018-11-05,95328884.65,95328884.65,Indexé,EURIBOR03M,-0.235,0.5819,Emprunt in fine,0
+2015,1641 - Emprunts établissements crédit,BEI,2014-10-07,2021-10-07,70000000.0,70000000.0,Fixe,TAUX FIXE,0.77,0.7717,Emprunt in fine,0
+2017,16311 - Emissions obligataires,92 - HSBC,2011-12-29,2026-12-29,21000000.0,21000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2012,16311 - Emissions obligataires,Société Générale,2011-07-13,2026-07-13,60000000.0,60000000.0,Fixe,TAUX FIXE,4.12,4.1201,Emprunt in fine,1
+2011,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2010-12-29,2025-12-29,140000000.0,140000000.0,Fixe,TAUX FIXE,3.875,3.8751,Emprunt in fine,1
+2007,16441 - Emprunts option tirage tréso,CREDIT FONCIER,2005-12-30,2012-12-30,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2008,1641 - Emprunts établissements crédit,DEXIA CREDIT LOCAL,1996-12-19,2008-12-30,60979606.89,0.0,Fixe,TAUX FIXE,5.42,5.4191,Emprunt in fine,1
+2017,16311 - Emissions obligataires,102 - Deutsche Bank,2012-04-02,2027-04-02,100000000.0,100000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2007,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2002-12-01,2009-12-01,120000000.0,120000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,Helaba,2013-06-13,2028-06-13,25000000.0,25000000.0,Fixe,TAUX FIXE,2.81,2.8102,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-01-13,24405125.08,24405125.08,Indexé,EURIBOR04M,-0.359,1.0987,Emprunt in fine,0
+2014,1641 - Emprunts établissements crédit,BNP Paribas,2009-12-30,2021-12-29,25000000.0,25000000.0,Indexé,EURIBOR03M,0.359,0.6726000000000001,Emprunt in fine,0
+2011,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2017-12-31,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2007,1641 - Emprunts établissements crédit,DEXIA CREDIT LOCAL,1996-12-19,2008-12-30,60979606.89,60979606.89,Fixe,TAUX FIXE,5.42,5.4191,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,96 - BEI,2010-07-21,2023-07-21,100000000.0,100000000.0,Fixe,TAUX FIXE,3.451,3.4512,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Goldman Sachs,2011-11-25,2025-12-29,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8757,Emprunt in fine,0
+2007,16441 - Emprunts option tirage tréso,SOCIETE GENERALE,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2007,16311 - Emissions obligataires,BNP Paribas,2005-11-24,2014-11-24,96618357.49,96618357.49,Indexé,EURIBOR03M,0.101,1.9012,Emprunt in fine,1
+2013,1641 - Emprunts établissements crédit,DEXIA CREDIT LOCAL,2003-12-22,2013-12-22,35000000.0,0.0,Indexé,TAG06M,0.1581,1.9644,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,Helaba,2013-06-13,2028-06-13,25000000.0,25000000.0,Fixe,TAUX FIXE,2.81,2.8102,Emprunt in fine,1
+2011,16311 - Emissions obligataires,Société Générale,2011-07-13,2026-07-13,60000000.0,60000000.0,Fixe,TAUX FIXE,4.12,4.1201,Emprunt in fine,1
+2013,1641 - Emprunts établissements crédit,SOCIETE GENERALE,2005-12-28,2019-12-28,25000000.0,25000000.0,Indexé,TAG01M,0.0,1.0218,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,BEI,2015-12-22,2022-12-22,60000000.0,60000000.0,Fixe,TAUX FIXE,0.492,0.4948,Emprunt in fine,0
+2012,1641 - Emprunts établissements crédit,CREDIT FONCIER,2003-12-22,2018-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.1776,1.3408,Emprunt in fine,1
+2007,1641 - Emprunts établissements crédit,LANDESBANK BERLIN AG,1996-12-02,2011-12-02,83846959.48,83846959.48,Fixe,TAUX FIXE,5.95,5.9497,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Natixis,2006-11-28,2019-11-28,100000000.0,100000000.0,Indexé,EURIBOR03M,-0.379,1.0156,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Crédit Agricole,2015-09-29,2035-09-29,20000000.0,20000000.0,Fixe,TAUX FIXE,2.006,2.0062,Emprunt in fine,0
+2017,16311 - Emissions obligataires,101 - Goldman Sachs,2015-10-01,2030-05-25,40000000.0,40000000.0,Fixe,TAUX FIXE,1.214,1.2149,Emprunt in fine,0
+2016,1641 - Emprunts établissements crédit,Helaba,2015-09-18,2038-10-25,15000000.0,15000000.0,Fixe,TAUX FIXE,2.103,2.1033,Emprunt in fine,1
+2012,16311 - Emissions obligataires,Natixis,2006-11-28,2019-11-28,100000000.0,100000000.0,Indexé,EURIBOR03M,-0.008,1.1258,Emprunt in fine,1
+2017,16311 - Emissions obligataires,92 - HSBC,2016-11-18,2036-11-18,50000000.0,50000000.0,Fixe,TAUX FIXE,1.3,1.3003,Emprunt in fine,0
+2010,16441 - Emprunts option tirage tréso,CREDIT AGRICOLE IDF,2005-12-30,2011-12-30,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Citi,2013-12-11,2029-01-15,60000000.0,60000000.0,Fixe,TAUX FIXE,3.0,3.0001,Emprunt in fine,0
+2010,1641 - Emprunts établissements crédit,C.D.C.,1954-12-21,2019-03-31,4278.21,1074.59,Fixe,TAUX FIXE,2.0,1.341,Échéance constante,1
+2008,1641 - Emprunts établissements crédit,C.D.C.,1954-12-21,2019-03-31,4278.21,1288.49,Fixe,TAUX FIXE,2.0,1.341,Échéance constante,1
+2008,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2014,16311 - Emissions obligataires,Société Générale,2011-07-13,2026-07-13,60000000.0,60000000.0,Fixe,TAUX FIXE,4.12,4.1201,Emprunt in fine,0
+2014,16311 - Emissions obligataires,Natixis,2013-10-17,2028-06-21,50000000.0,50000000.0,Fixe,TAUX FIXE,2.886,2.8872,Emprunt in fine,0
+2011,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-01-14,24405125.08,24405125.08,Indexé,EURIBOR04M,0.021,1.1414,Emprunt in fine,1
+2015,16311 - Emissions obligataires,HSBC-SG-CA,2015-11-18,2031-05-25,300000000.0,300000000.0,Fixe,TAUX FIXE,1.75,1.7507,Emprunt in fine,0
+2007,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2001-07-24,2008-12-01,99091861.2,38112254.31,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2012,16311 - Emissions obligataires,HSBC-Natixis-Banca IMI,2009-06-29,2022-06-29,200000000.0,200000000.0,Fixe,TAUX FIXE,4.625,4.6251,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Natixis-BNP,2012-12-19,2022-12-19,40000000.0,40000000.0,Indexé,EURIBOR03M,0.75,0.8057000000000001,Emprunt in fine,1
+2014,1641 - Emprunts établissements crédit,Gr.C.E.: CREDIT FONCIER,2003-12-22,2018-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.1776,1.3408,Emprunt in fine,1
+2008,16311 - Emissions obligataires,Calyon-Dexia,2006-11-28,2014-11-28,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8752,Emprunt in fine,1
+2014,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-02-14,24405125.08,24405125.08,Indexé,EURIBOR03M,-0.074,1.0799,Emprunt in fine,0
+2012,1641 - Emprunts établissements crédit,BEI,2008-11-25,2019-11-25,80000000.0,80000000.0,Indexé,EURIBOR03M,0.133,0.617,Emprunt in fine,1
+2010,1641 - Emprunts établissements crédit,BEI,2008-11-25,2019-11-25,80000000.0,80000000.0,Indexé,EURIBOR03M,0.133,0.617,Emprunt in fine,1
+2008,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2017-12-31,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2009,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2008-10-30,2021-10-29,155000000.0,155000000.0,Fixe,TAUX FIXE,4.75,4.7501,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Barclays,2013-04-18,2031-04-18,25000000.0,25000000.0,Indexé,EURIBOR03M,0.305,0.384,Emprunt in fine,0
+2012,16311 - Emissions obligataires,HSBC,2012-10-02,2023-10-02,30000000.0,30000000.0,Fixe,TAUX FIXE,2.6,2.6002,Emprunt in fine,1
+2012,16311 - Emissions obligataires,Dexia - Morgan Stanley,2005-06-24,2015-06-24,120000000.0,120000000.0,Fixe,TAUX FIXE,3.25,3.2502,Emprunt in fine,1
+2017,16311 - Emissions obligataires,99 - HSBC-Natixis-SociétéGénérale,2010-12-29,2025-12-29,140000000.0,140000000.0,Fixe,TAUX FIXE,3.875,3.8751,Emprunt in fine,0
+2011,16441 - Emprunts option tirage tréso,CREDIT AGRICOLE IDF,2005-12-30,2011-12-30,100000000.0,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2007,1641 - Emprunts établissements crédit,BNP Paribas,2002-12-27,2017-12-27,110000000.0,110000000.0,Indexé,T4M,0.0013,1.6055,Emprunt in fine,1
+2011,16311 - Emissions obligataires,HSBC,2010-12-02,2024-12-02,100000000.0,100000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,Gr.C.E.: CREDIT FONCIER,2003-12-22,2018-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.0,1.2946,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,Helaba,2016-06-24,2043-09-24,50000000.0,50000000.0,Fixe,TAUX FIXE,1.499,1.4992,Emprunt in fine,1
+2008,1641 - Emprunts établissements crédit,BEI,2008-11-25,2019-11-25,80000000.0,80000000.0,Indexé,EURIBOR03M,0.133,0.617,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC,2013-06-21,2028-06-21,75000000.0,75000000.0,Fixe,TAUX FIXE,2.886,2.8861,Emprunt in fine,0
+2012,1641 - Emprunts établissements crédit,C.D.C.,1955-10-25,2020-03-31,5328.64,1188.66,Fixe,TAUX FIXE,2.0,1.3806,Échéance constante,1
+2017,1641 - Emprunts établissements crédit,31 - Helaba,2015-03-13,2040-03-13,50000000.0,50000000.0,Fixe,TAUX FIXE,1.543,1.5432,Emprunt in fine,1
+2009,1641 - Emprunts établissements crédit,BNP Paribas,2002-12-27,2017-12-27,110000000.0,110000000.0,Indexé,T4M,0.0013,1.6055,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Natixis,2006-11-28,2019-11-28,100000000.0,100000000.0,Indexé,EURIBOR03M,-0.348,1.0226,Emprunt in fine,0
+2015,16311 - Emissions obligataires,HSBC,2012-10-02,2023-10-02,30000000.0,30000000.0,Fixe,TAUX FIXE,2.6,2.6002,Emprunt in fine,0
+2013,16311 - Emissions obligataires,HSBC,2005-11-16,2015-11-16,14888865.0,14888865.0,Indexé,EURIBOR03M,-0.012,1.7396,Emprunt in fine,1
+2008,168 Autres emprunts et dettes assimilées,CAISSE NATION. ASSURANCE VIELL,1978-01-01,2010-10-31,269850.92,17992.33,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2017,1641 - Emprunts établissements crédit,31 - Helaba,2015-03-18,2039-03-18,40000000.0,40000000.0,Fixe,TAUX FIXE,1.2,1.2003,Emprunt in fine,1
+2017,16311 - Emissions obligataires,92 - HSBC,2015-09-16,2030-09-16,50000000.0,50000000.0,Fixe,TAUX FIXE,1.724,1.7243,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Natixis,2013-04-30,2029-04-30,60000000.0,60000000.0,Indexé,EURIBOR03M,0.342,0.431,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Natixis,2013-10-17,2028-06-21,50000000.0,50000000.0,Fixe,TAUX FIXE,2.886,2.8872,Emprunt in fine,0
+2008,1641 - Emprunts établissements crédit,CREDIT FONCIER,2003-12-22,2018-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.1776,1.3408,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.36,3.3601,Emprunt in fine,0
+2010,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2011,16311 - Emissions obligataires,HSBC-Natixis-Banca IMI,2009-06-29,2022-06-29,200000000.0,200000000.0,Fixe,TAUX FIXE,4.625,4.6251,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,2 - C.D.C.,1954-11-23,2019-03-31,31064.74,1856.14,Fixe,TAUX FIXE,2.0,1.3381,Échéance constante,1
+2012,16311 - Emissions obligataires,HSBC,2005-11-16,2015-11-16,14888865.0,14888865.0,Indexé,EURIBOR03M,-0.012,1.7396,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,Helaba,2015-01-13,2024-12-13,40000000.0,40000000.0,Fixe,TAUX FIXE,1.125,1.1259,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Dexia - Morgan Stanley,2005-06-24,2015-06-24,120000000.0,120000000.0,Fixe,TAUX FIXE,3.25,3.2502,Emprunt in fine,1
+2017,16311 - Emissions obligataires,15 - Crédit Suisse,2007-12-14,2017-01-13,24405125.08,0.0,Indexé,EURIBOR04M,-0.359,1.0987,Emprunt in fine,0
+2017,16311 - Emissions obligataires,103 - Crédit Agricole,2015-09-29,2035-09-29,20000000.0,20000000.0,Fixe,TAUX FIXE,2.006,2.0062,Emprunt in fine,0
+2012,16311 - Emissions obligataires,Deutsche Bank,2012-04-02,2027-04-02,100000000.0,100000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,1
+2017,16311 - Emissions obligataires,10 - Natixis,2013-04-30,2029-04-30,60000000.0,60000000.0,Indexé,EURIBOR03M,0.309,0.4054,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,31 - Helaba,2013-06-13,2028-06-13,25000000.0,25000000.0,Fixe,TAUX FIXE,2.81,2.8102,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,7 - BNP Paribas,2009-12-30,2021-12-29,25000000.0,25000000.0,Indexé,EURIBOR03M,0.071,0.5345,Emprunt in fine,0
+2013,16311 - Emissions obligataires,HSBC-Natixis-Banca IMI,2009-06-29,2022-06-29,200000000.0,200000000.0,Fixe,TAUX FIXE,4.625,4.6251,Emprunt in fine,1
+2012,16311 - Emissions obligataires,Crédit Suisse-BNPP,2008-11-05,2018-11-05,95328884.65,95328884.65,Indexé,EURIBOR03M,0.119,0.6826,Emprunt in fine,1
+2008,16441 - Emprunts option tirage tréso,Caisse Nat. C.E.,2004-12-17,2012-12-17,75000000.0,75000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2017,16311 - Emissions obligataires,107 - BRED,2014-07-15,2028-12-15,50000000.0,50000000.0,Fixe,TAUX FIXE,2.28,2.2807,Emprunt in fine,0
+2007,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2017-12-31,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2007,168 Autres emprunts et dettes assimilées,CAISSE NATION. ASSURANCE VIELL,1978-01-01,2010-10-31,269850.92,26987.28,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2012,1641 - Emprunts établissements crédit,BEI,2011-12-19,2025-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.369,3.3692,Emprunt in fine,1
+2007,1641 - Emprunts établissements crédit,BEI,2006-12-28,2010-12-28,50000000.0,50000000.0,Indexé,EURIBOR03M,0.801,2.8883,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Citi,2016-10-27,2036-10-27,50000000.0,50000000.0,Fixe,TAUX FIXE,1.16,1.1604,Emprunt in fine,0
+2010,16311 - Emissions obligataires,HSBC,2010-12-02,2024-12-02,100000000.0,100000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,1
+2008,16311 - Emissions obligataires,Dexia - Morgan Stanley,2005-06-24,2015-06-24,120000000.0,120000000.0,Fixe,TAUX FIXE,3.25,3.2502,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,Gr.C.E.: CREDIT FONCIER,2003-12-22,2018-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.123,1.2851,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,BNP Paribas,2002-12-27,2017-12-27,110000000.0,110000000.0,Indexé,T4M,0.0,1.6052,Emprunt in fine,1
+2014,16311 - Emissions obligataires,HSBC,2010-12-02,2024-12-02,100000000.0,100000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,0
+2013,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1974-01-01,2021-06-15,26266.97,21013.57,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2013,16311 - Emissions obligataires,HSBC,2013-06-21,2028-06-21,75000000.0,75000000.0,Fixe,TAUX FIXE,2.886,2.8861,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Citi,2013-12-11,2029-01-15,60000000.0,60000000.0,Fixe,TAUX FIXE,3.0,3.0001,Emprunt in fine,1
+2017,16311 - Emissions obligataires,92 - HSBC,2016-04-19,2038-04-19,35000000.0,35000000.0,Fixe,TAUX FIXE,1.512,1.5122,Emprunt in fine,0
+2013,16311 - Emissions obligataires,HSBC,2010-12-02,2024-12-02,100000000.0,100000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,1
+2016,16311 - Emissions obligataires,BRED,2014-07-15,2028-12-15,50000000.0,50000000.0,Fixe,TAUX FIXE,2.28,2.2807,Emprunt in fine,0
+2015,16311 - Emissions obligataires,HSBC,2012-07-20,2032-07-20,50000000.0,50000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Natixis-BNP,2012-12-19,2022-12-19,40000000.0,40000000.0,Indexé,EURIBOR03M,0.461,0.603,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,6 - CREDIT AGRICOLE IDF,2016-09-16,2019-09-16,119948.85,71698.6,Fixe,TAUX FIXE,4.00093,4.0516,Échéance constante,0
+2010,16311 - Emissions obligataires,HSBC-Natixis,2007-12-04,2020-12-04,160000000.0,160000000.0,Fixe,TAUX FIXE,4.5,4.5001,Emprunt in fine,1
+2013,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2017-12-31,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2010,1641 - Emprunts établissements crédit,BEI,2006-12-28,2010-12-28,50000000.0,0.0,Indexé,EURIBOR03M,0.801,2.8883,Emprunt in fine,1
+2017,16311 - Emissions obligataires,98 - Crédit Suisse-BNPP,2008-11-05,2018-11-05,95328884.65,95328884.65,Indexé,EURIBOR03M,-0.265,0.5763,Emprunt in fine,0
+2008,1641 - Emprunts établissements crédit,BNP Paribas,2002-12-27,2017-12-27,110000000.0,110000000.0,Indexé,T4M,0.0013,1.6055,Emprunt in fine,1
+2012,1641 - Emprunts établissements crédit,DEXIA CREDIT LOCAL,2003-12-22,2013-12-22,35000000.0,35000000.0,Indexé,TAG06M,0.1581,1.9644,Emprunt in fine,1
+2010,16311 - Emissions obligataires,Calyon-Dexia,2006-11-28,2014-11-28,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8752,Emprunt in fine,1
+2015,16311 - Emissions obligataires,HSBC,2010-12-02,2024-12-02,100000000.0,100000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,0
+2014,1641 - Emprunts établissements crédit,C.D.C.,1954-12-21,2019-03-31,4278.21,620.52,Fixe,TAUX FIXE,2.0,1.341,Échéance constante,1
+2017,1641 - Emprunts établissements crédit,7 - BNP Paribas,2002-12-27,2017-12-27,110000000.0,0.0,Indexé,T4M,0.0,1.6052,Emprunt in fine,1
+2015,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2008-10-30,2021-10-29,155000000.0,155000000.0,Fixe,TAUX FIXE,4.75,4.7501,Emprunt in fine,0
+2015,1641 - Emprunts établissements crédit,BEI,2008-11-25,2019-11-25,80000000.0,80000000.0,Indexé,EURIBOR03M,0.0,0.5649000000000001,Emprunt in fine,0
+2008,168 Autres emprunts et dettes assimilées,CAISSE NATION. ASSURANCE VIELL,1976-01-01,2008-10-31,71163.2,0.0,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2014,16311 - Emissions obligataires,Goldman Sachs,2011-11-25,2025-12-29,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8757,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-02-14,24405125.08,24405125.08,Indexé,EURIBOR03M,-0.349,1.0525,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,96 - BEI,2014-10-07,2021-10-07,70000000.0,70000000.0,Fixe,TAUX FIXE,0.77,0.7717,Emprunt in fine,0
+2014,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2008-10-30,2021-10-29,155000000.0,155000000.0,Fixe,TAUX FIXE,4.75,4.7501,Emprunt in fine,0
+2011,16311 - Emissions obligataires,Dexia - Morgan Stanley,2005-06-24,2015-06-24,120000000.0,120000000.0,Fixe,TAUX FIXE,3.25,3.2502,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC,2014-03-21,2029-12-14,50000000.0,50000000.0,Fixe,TAUX FIXE,2.85,2.8507,Emprunt in fine,0
+2007,1641 - Emprunts établissements crédit,C.D.C.,1954-11-23,2019-03-31,31064.74,10109.86,Fixe,TAUX FIXE,2.0,1.3381,Échéance constante,1
+2017,16311 - Emissions obligataires,104 - Natixis-BNP,2012-12-19,2022-12-19,40000000.0,40000000.0,Indexé,EURIBOR03M,0.396,0.5630000000000001,Emprunt in fine,0
+2014,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2010-12-29,2025-12-29,140000000.0,140000000.0,Fixe,TAUX FIXE,3.875,3.8751,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Société Générale,2011-07-13,2026-07-13,60000000.0,60000000.0,Fixe,TAUX FIXE,4.12,4.1201,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,96 - BEI,2014-07-31,2023-07-31,130000000.0,130000000.0,Fixe,TAUX FIXE,1.454,1.4547,Emprunt in fine,0
+2011,16311 - Emissions obligataires,Natixis,2006-11-28,2019-11-28,100000000.0,100000000.0,Indexé,EURIBOR03M,-0.008,1.1258,Emprunt in fine,1
+2014,16311 - Emissions obligataires,Dexia - Morgan Stanley,2005-06-24,2015-06-24,120000000.0,120000000.0,Fixe,TAUX FIXE,3.25,3.2502,Emprunt in fine,0
+2013,1641 - Emprunts établissements crédit,CREDIT AGRICOLE IDF,2003-12-22,2013-12-22,40000000.0,0.0,Indexé,TAG12M,0.16,1.8763,Emprunt in fine,1
+2012,16441 - Emprunts option tirage tréso,Caisse Nat. C.E.,2004-12-17,2012-12-17,75000000.0,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2010,1641 - Emprunts établissements crédit,C.D.C.,1954-11-23,2019-03-31,31064.74,7802.98,Fixe,TAUX FIXE,2.0,1.3381,Échéance constante,1
+2016,16876 - C.R.A.M.I.F / S.I.A.A.P.,S.I.A.A.P.,1974-01-01,2021-06-15,26266.97,13133.47,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,0
+2009,16311 - Emissions obligataires,HSBC-Natixis-Banca IMI,2009-06-29,2022-06-29,200000000.0,200000000.0,Fixe,TAUX FIXE,4.625,4.6251,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Société Générale,2011-07-13,2026-07-13,60000000.0,60000000.0,Fixe,TAUX FIXE,4.12,4.1201,Emprunt in fine,0
+2015,1641 - Emprunts établissements crédit,Helaba,2015-09-18,2038-10-25,15000000.0,15000000.0,Fixe,TAUX FIXE,2.103,2.1033,Emprunt in fine,1
+2009,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2010,16311 - Emissions obligataires,Natixis,2006-11-28,2019-11-28,100000000.0,100000000.0,Indexé,EURIBOR03M,-0.008,1.1258,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Natixis,2013-10-17,2028-10-17,50000000.0,50000000.0,Fixe,TAUX FIXE,3.15,3.1501,Emprunt in fine,0
+2013,1641 - Emprunts établissements crédit,BNP Paribas,2009-12-30,2021-12-29,25000000.0,25000000.0,Indexé,EURIBOR03M,0.421,0.7061000000000001,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,BEI,2011-12-19,2025-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.369,3.3692,Emprunt in fine,0
+2013,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2013-12-31,50000000.0,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Barclays,2013-04-18,2031-04-18,25000000.0,25000000.0,Indexé,EURIBOR03M,0.669,0.6973,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,BEI,2015-12-22,2022-12-22,60000000.0,60000000.0,Fixe,TAUX FIXE,0.492,0.4948,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Natixis,2013-04-30,2032-04-30,15000000.0,15000000.0,Indexé,EURIBOR03M,0.343,0.4256,Emprunt in fine,0
+2017,16311 - Emissions obligataires,92 - HSBC,2005-11-09,2018-11-09,50651230.1,50651230.1,Indexé,EURIBOR03M,-0.359,1.3061,Emprunt in fine,0
+2013,16311 - Emissions obligataires,Société Générale,2013-10-01,2026-10-01,75000000.0,75000000.0,Fixe,TAUX FIXE,3.049,3.0492,Emprunt in fine,1
+2014,16311 - Emissions obligataires,HSBC,2011-12-29,2026-12-29,21000000.0,21000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Dexia - Morgan Stanley,2005-06-24,2015-06-24,120000000.0,0.0,Fixe,TAUX FIXE,3.25,3.2502,Emprunt in fine,0
+2014,16311 - Emissions obligataires,HSBC,2012-04-02,2027-04-02,50000000.0,50000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2017,16311 - Emissions obligataires,101 - Goldman Sachs,2011-11-25,2025-12-29,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8757,Emprunt in fine,0
+2014,16311 - Emissions obligataires,Natixis-BNP,2012-12-19,2022-12-19,40000000.0,40000000.0,Indexé,EURIBOR03M,0.6880000000000001,0.7593000000000001,Emprunt in fine,0
+2011,1641 - Emprunts établissements crédit,CREDIT AGRICOLE IDF,2003-12-22,2013-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.16,1.8763,Emprunt in fine,1
+2007,16311 - Emissions obligataires,Dexia - Morgan Stanley,2005-06-24,2015-06-24,120000000.0,120000000.0,Fixe,TAUX FIXE,3.25,3.2502,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Natixis-BNP,2012-12-19,2022-12-19,40000000.0,40000000.0,Indexé,EURIBOR03M,0.396,0.5630000000000001,Emprunt in fine,0
+2012,1641 - Emprunts établissements crédit,BNP Paribas,2002-12-27,2017-12-27,110000000.0,110000000.0,Indexé,T4M,0.0013,1.6055,Emprunt in fine,1
+2011,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1974-01-01,2021-06-15,26266.97,26266.97,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2014,1641 - Emprunts établissements crédit,BEI,2014-07-31,2023-07-31,130000000.0,130000000.0,Fixe,TAUX FIXE,1.454,1.4547,Emprunt in fine,0
+2015,1641 - Emprunts établissements crédit,Helaba,2014-03-21,2023-03-21,25000000.0,25000000.0,Fixe,TAUX FIXE,2.1,2.1005,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,C.D.C.,1954-12-21,2019-03-31,4278.21,501.27,Fixe,TAUX FIXE,2.0,1.341,Échéance constante,1
+2017,16876 - C.R.A.M.I.F / S.I.A.A.P.,27 - S.I.A.A.P.,1976-01-01,2024-06-15,59348.4,41543.88,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,0
+2011,16311 - Emissions obligataires,Calyon-Dexia,2006-11-28,2014-11-28,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8752,Emprunt in fine,1
+2011,16311 - Emissions obligataires,HSBC-Natixis,2006-05-26,2016-05-26,200000000.0,200000000.0,Fixe,TAUX FIXE,4.125,4.1252,Emprunt in fine,1
+2012,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2008-10-30,2021-10-29,155000000.0,155000000.0,Fixe,TAUX FIXE,4.75,4.7501,Emprunt in fine,1
+2007,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1974-01-01,2021-06-15,26266.97,26266.97,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2014,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.36,3.3601,Emprunt in fine,0
+2015,16311 - Emissions obligataires,BRED,2014-07-15,2028-12-15,50000000.0,50000000.0,Fixe,TAUX FIXE,2.28,2.2807,Emprunt in fine,0
+2007,1641 - Emprunts établissements crédit,SOCIETE GENERALE,2005-12-28,2019-12-28,25000000.0,25000000.0,Indexé,TAG01M,0.0,1.0218,Emprunt in fine,1
+2011,1641 - Emprunts établissements crédit,SOCIETE GENERALE,2005-12-28,2019-12-28,25000000.0,25000000.0,Indexé,TAG01M,0.0,1.0218,Emprunt in fine,1
+2014,16311 - Emissions obligataires,Calyon-Dexia,2006-11-28,2014-11-28,100000000.0,0.0,Fixe,TAUX FIXE,3.875,3.8752,Emprunt in fine,0
+2016,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,100000000.0,100000000.0,Fixe,TAUX FIXE,3.781,3.7811,Emprunt in fine,0
+2017,16311 - Emissions obligataires,97 - HSBC-Natixis,2007-12-04,2020-12-04,160000000.0,160000000.0,Fixe,TAUX FIXE,4.5,4.5001,Emprunt in fine,0
+2016,16311 - Emissions obligataires,HSBC,2016-11-18,2036-11-18,50000000.0,50000000.0,Fixe,TAUX FIXE,1.3,1.3003,Emprunt in fine,0
+2016,16311 - Emissions obligataires,HSBC-Natixis,2006-05-26,2016-05-26,200000000.0,0.0,Fixe,TAUX FIXE,4.125,4.1252,Emprunt in fine,0
+2009,1641 - Emprunts établissements crédit,CREDIT AGRICOLE IDF,2003-12-22,2013-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.16,1.8763,Emprunt in fine,1
+2007,16311 - Emissions obligataires,Natixis,2006-11-28,2019-11-28,100000000.0,100000000.0,Indexé,EURIBOR03M,-0.008,1.1258,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Société Générale,2015-03-16,2030-05-25,110000000.0,110000000.0,Fixe,TAUX FIXE,1.214,1.2145,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Natixis,2013-12-12,2033-12-12,20000000.0,20000000.0,Fixe,TAUX FIXE,3.24,3.2401,Emprunt in fine,0
+2014,1641 - Emprunts établissements crédit,C.D.C.,1954-11-23,2019-03-31,31064.74,4506.02,Fixe,TAUX FIXE,2.0,1.3381,Échéance constante,1
+2007,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2013-12-31,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2007,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1976-01-01,2024-06-15,59348.4,59348.4,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2017,16311 - Emissions obligataires,89 - SocGen (arrangeur),2011-07-13,2026-07-13,60000000.0,60000000.0,Fixe,TAUX FIXE,4.12,4.1201,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Goldman Sachs,2011-11-25,2025-12-29,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8757,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Goldman Sachs,2012-10-25,2029-10-25,70000000.0,70000000.0,Fixe,TAUX FIXE,3.02,3.0201,Emprunt in fine,0
+2016,16311 - Emissions obligataires,HSBC,2014-07-17,2031-07-17,70000000.0,70000000.0,Fixe,TAUX FIXE,2.51,2.5102,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,31 - Helaba,2016-06-24,2043-09-24,50000000.0,50000000.0,Fixe,TAUX FIXE,1.499,1.4992,Emprunt in fine,1
+2017,16311 - Emissions obligataires,108 - HSBC-SG-CA,2017-02-02,2033-02-02,300000000.0,300000000.0,Fixe,TAUX FIXE,1.625,1.6253000000000002,Emprunt in fine,0
+2007,16311 - Emissions obligataires,HSBC,2005-11-09,2018-11-09,50651230.1,50651230.1,Indexé,EURIBOR03M,0.021,1.3865,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,Helaba,2014-03-21,2023-03-21,25000000.0,25000000.0,Fixe,TAUX FIXE,2.1,2.1005,Emprunt in fine,1
+2012,1641 - Emprunts établissements crédit,BEI,2010-07-21,2023-07-21,100000000.0,100000000.0,Fixe,TAUX FIXE,3.451,3.4512,Emprunt in fine,1
+2009,1641 - Emprunts établissements crédit,C.D.C.,1954-11-23,2019-03-31,31064.74,8587.22,Fixe,TAUX FIXE,2.0,1.3381,Échéance constante,1
+2017,16311 - Emissions obligataires,103 - Crédit Agricole,2012-09-20,2026-01-20,100000000.0,100000000.0,Fixe,TAUX FIXE,2.909,2.9098,Emprunt in fine,0
+2012,16311 - Emissions obligataires,Goldman Sachs,2012-10-25,2029-10-25,70000000.0,70000000.0,Fixe,TAUX FIXE,3.02,3.0201,Emprunt in fine,1
+2014,16311 - Emissions obligataires,Société Générale,2013-10-01,2027-10-01,125000000.0,125000000.0,Fixe,TAUX FIXE,3.155,3.1552,Emprunt in fine,0
+2008,1641 - Emprunts établissements crédit,C.D.C.,1955-10-25,2020-03-31,5328.64,1716.02,Fixe,TAUX FIXE,2.0,1.3806,Échéance constante,1
+2013,1641 - Emprunts établissements crédit,BNP Paribas,2002-12-27,2017-12-27,110000000.0,110000000.0,Indexé,T4M,0.0013,1.6055,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Crédit Suisse,2009-12-10,2020-01-10,49715000.0,49715000.0,Indexé,EURIBOR03M,0.385,0.7033,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-02-14,24405125.08,24405125.08,Indexé,EURIBOR03M,-0.002,1.0934,Emprunt in fine,1
+2014,16311 - Emissions obligataires,HSBC,2012-10-26,2026-01-20,30000000.0,30000000.0,Fixe,TAUX FIXE,2.909,2.9097,Emprunt in fine,0
+2016,1641 - Emprunts établissements crédit,SOCIETE GENERALE,2005-12-28,2019-12-28,25000000.0,25000000.0,Indexé,TAG01M,0.0,1.0218,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-01-14,24405125.08,24405125.08,Indexé,EURIBOR04M,-0.341,1.0988,Emprunt in fine,0
+2009,16441 - Emprunts option tirage tréso,CREDIT AGRICOLE IDF,2005-12-30,2011-12-30,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2010,16311 - Emissions obligataires,BNP Paribas,2005-11-24,2014-11-24,96618357.49,96618357.49,Indexé,EURIBOR03M,0.101,1.9012,Emprunt in fine,1
+2014,16311 - Emissions obligataires,Crédit Suisse,2009-12-10,2020-01-10,49715000.0,49715000.0,Indexé,EURIBOR03M,0.297,0.6623,Emprunt in fine,0
+2014,16311 - Emissions obligataires,Natixis,2013-04-30,2029-04-30,60000000.0,60000000.0,Indexé,EURIBOR03M,0.619,0.6611,Emprunt in fine,0
+2011,1641 - Emprunts établissements crédit,C.D.C.,1954-12-21,2019-03-31,4278.21,964.42,Fixe,TAUX FIXE,2.0,1.341,Échéance constante,1
+2016,1641 - Emprunts établissements crédit,CREDIT AGRICOLE IDF,2016-09-16,2019-09-16,119948.85,110487.15,Fixe,TAUX FIXE,4.00093,4.0516,Échéance constante,0
+2017,16311 - Emissions obligataires,92 - HSBC,2012-10-26,2026-01-20,30000000.0,30000000.0,Fixe,TAUX FIXE,2.909,2.9097,Emprunt in fine,0
+2012,16311 - Emissions obligataires,BNP Paribas,2005-11-24,2014-11-24,96618357.49,96618357.49,Indexé,EURIBOR03M,0.101,1.9012,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,BEI,2014-07-31,2023-07-31,130000000.0,130000000.0,Fixe,TAUX FIXE,1.454,1.4547,Emprunt in fine,0
+2017,16311 - Emissions obligataires,92 - HSBC,2012-07-20,2032-07-20,50000000.0,50000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,0
+2015,1641 - Emprunts établissements crédit,Helaba,2014-03-21,2029-03-21,25000000.0,25000000.0,Fixe,TAUX FIXE,2.84,2.8401,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Natixis,2013-10-17,2028-06-21,50000000.0,50000000.0,Fixe,TAUX FIXE,2.886,2.8872,Emprunt in fine,0
+2007,16441 - Emprunts option tirage tréso,Caisse Nat. C.E.,2004-12-17,2010-12-17,75000000.0,75000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,31 - Helaba,2016-10-19,2041-10-18,40000000.0,40000000.0,Fixe,TAUX FIXE,1.278,1.2782,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Goldman Sachs,2015-10-01,2030-05-25,40000000.0,40000000.0,Fixe,TAUX FIXE,1.214,1.2149,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Société Générale,2013-10-01,2027-10-01,125000000.0,125000000.0,Fixe,TAUX FIXE,3.155,3.1552,Emprunt in fine,0
+2008,1641 - Emprunts établissements crédit,BEI,2006-12-28,2010-12-28,50000000.0,50000000.0,Indexé,EURIBOR03M,0.801,2.8883,Emprunt in fine,1
+2017,16311 - Emissions obligataires,106 - Citi,2013-12-11,2029-01-15,60000000.0,60000000.0,Fixe,TAUX FIXE,3.0,3.0001,Emprunt in fine,0
+2016,1641 - Emprunts établissements crédit,CREDIT AGRICOLE IDF,2016-09-03,2026-03-03,873006.92,853607.66,Fixe,TAUX FIXE,3.5700000000000003,3.62,Échéance constante,0
+2013,16311 - Emissions obligataires,Natixis,2013-10-17,2028-06-21,50000000.0,50000000.0,Fixe,TAUX FIXE,2.886,2.8872,Emprunt in fine,1
+2009,1641 - Emprunts établissements crédit,C.D.C.,1955-10-25,2020-03-31,5328.64,1588.07,Fixe,TAUX FIXE,2.0,1.3806,Échéance constante,1
+2014,1641 - Emprunts établissements crédit,SOCIETE GENERALE,2005-12-28,2019-12-28,25000000.0,25000000.0,Indexé,TAG01M,0.0,1.0218,Emprunt in fine,0
+2017,16311 - Emissions obligataires,92 - HSBC,2010-12-02,2024-12-02,100000000.0,100000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,0
+2010,1641 - Emprunts établissements crédit,BEI,2010-07-21,2023-07-21,100000000.0,100000000.0,Fixe,TAUX FIXE,3.451,3.4512,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Crédit Agricole,2012-09-20,2026-01-20,100000000.0,100000000.0,Fixe,TAUX FIXE,2.909,2.9098,Emprunt in fine,0
+2009,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1976-01-01,2024-06-15,59348.4,59348.4,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2010,1641 - Emprunts établissements crédit,CREDIT FONCIER,2003-12-22,2018-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.1776,1.3408,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Goldman Sachs,2012-10-25,2029-10-25,70000000.0,70000000.0,Fixe,TAUX FIXE,3.02,3.0201,Emprunt in fine,0
+2007,1641 - Emprunts établissements crédit,C.D.C.,1955-10-25,2020-03-31,5328.64,1841.46,Fixe,TAUX FIXE,2.0,1.3806,Échéance constante,1
+2010,16441 - Emprunts option tirage tréso,Caisse Nat. C.E.,2004-12-17,2010-12-17,75000000.0,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2010,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1974-01-01,2021-06-15,26266.97,26266.97,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2017,16311 - Emissions obligataires,15 - Crédit Suisse,2009-12-10,2020-01-10,49715000.0,49715000.0,Indexé,EURIBOR03M,-0.014,0.5454,Emprunt in fine,0
+2015,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.36,3.3601,Emprunt in fine,0
+2009,16311 - Emissions obligataires,Crédit Suisse-BNPP,2008-11-05,2018-11-05,95328884.65,95328884.65,Indexé,EURIBOR03M,0.119,0.6826,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC,2010-12-02,2024-12-02,100000000.0,100000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,0
+2007,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-01-14,24405125.08,24405125.08,Indexé,EURIBOR04M,0.021,1.1414,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Deutsche Bank,2012-04-02,2027-04-02,100000000.0,100000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Crédit Suisse-BNPP,2008-11-05,2018-11-05,95328884.65,95328884.65,Indexé,EURIBOR03M,-0.264,0.5764,Emprunt in fine,0
+2016,1641 - Emprunts établissements crédit,C.D.C.,2016-11-30,2036-12-01,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Amort. constant ou progressif,0
+2013,16311 - Emissions obligataires,Goldman Sachs,2011-11-25,2025-12-29,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8757,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,2 - C.D.C.,1954-12-21,2019-03-31,4278.21,255.57,Fixe,TAUX FIXE,2.0,1.341,Échéance constante,1
+2008,1641 - Emprunts établissements crédit,LANDESBANK BERLIN AG,1996-12-02,2011-12-02,83846959.48,83846959.48,Fixe,TAUX FIXE,5.95,5.9497,Emprunt in fine,1
+2014,16311 - Emissions obligataires,HSBC-Natixis-Banca IMI,2009-06-29,2022-06-29,200000000.0,200000000.0,Fixe,TAUX FIXE,4.625,4.6251,Emprunt in fine,0
+2008,1641 - Emprunts établissements crédit,C.D.C.,1978-10-16,2008-02-25,7622450.86,0.0,Fixe,TAUX FIXE,5.426386,9.5103,Échéance constante,1
+2016,1641 - Emprunts établissements crédit,Helaba,2016-10-19,2041-10-18,40000000.0,40000000.0,Fixe,TAUX FIXE,1.278,1.2782,Emprunt in fine,1
+2014,16876 - C.R.A.M.I.F / S.I.A.A.P.,S.I.A.A.P.,1974-01-01,2021-06-15,26266.97,18386.87,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,0
+2011,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2013-12-31,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2017,16311 - Emissions obligataires,92 - HSBC,2014-07-17,2031-07-17,70000000.0,70000000.0,Fixe,TAUX FIXE,2.51,2.5102,Emprunt in fine,0
+2012,1641 - Emprunts établissements crédit,C.D.C.,1954-12-21,2019-03-31,4278.21,852.05,Fixe,TAUX FIXE,2.0,1.341,Échéance constante,1
+2017,16311 - Emissions obligataires,10 - Natixis,2013-04-30,2032-04-30,15000000.0,15000000.0,Indexé,EURIBOR03M,0.341,0.424,Emprunt in fine,0
+2011,1641 - Emprunts établissements crédit,CREDIT FONCIER,2003-12-22,2018-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.1776,1.3408,Emprunt in fine,1
+2009,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-02-14,24405125.08,24405125.08,Indexé,EURIBOR03M,-0.002,1.0934,Emprunt in fine,1
+2008,1641 - Emprunts établissements crédit,SOCIETE GENERALE,2005-12-28,2019-12-28,25000000.0,25000000.0,Indexé,TAG01M,0.0,1.0218,Emprunt in fine,1
+2009,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1974-01-01,2021-06-15,26266.97,26266.97,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2016,1641 - Emprunts établissements crédit,C.D.C.,1955-10-25,2020-03-31,5328.64,617.83,Fixe,TAUX FIXE,2.0,1.3806,Échéance constante,1
+2012,16311 - Emissions obligataires,Crédit Agricole,2012-09-20,2026-01-20,100000000.0,100000000.0,Fixe,TAUX FIXE,2.909,2.9098,Emprunt in fine,1
+2017,16311 - Emissions obligataires,10 - Natixis,2013-10-17,2028-10-17,50000000.0,50000000.0,Fixe,TAUX FIXE,3.15,3.1501,Emprunt in fine,0
+2017,16311 - Emissions obligataires,106 - Citi,2016-10-27,2036-10-27,50000000.0,50000000.0,Fixe,TAUX FIXE,1.16,1.1604,Emprunt in fine,0
+2015,16311 - Emissions obligataires,HSBC,2015-10-23,2045-10-23,35500000.0,35500000.0,Fixe,TAUX FIXE,2.1,2.1001,Emprunt in fine,0
+2011,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.36,3.3601,Emprunt in fine,1
+2007,16311 - Emissions obligataires,HSBC-Natixis,2006-05-26,2016-05-26,200000000.0,200000000.0,Fixe,TAUX FIXE,4.125,4.1252,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,20 - Banque du Conseil de l'Europe,2017-10-04,2030-10-04,75000000.0,75000000.0,Fixe,TAUX FIXE,0.75,0.7518,Amort. constant ou progressif,0
+2014,1641 - Emprunts établissements crédit,Helaba,2013-06-13,2028-06-13,25000000.0,25000000.0,Fixe,TAUX FIXE,2.81,2.8102,Emprunt in fine,1
+2017,16311 - Emissions obligataires,92 - HSBC,2012-10-02,2023-10-02,30000000.0,30000000.0,Fixe,TAUX FIXE,2.6,2.6002,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Crédit Suisse,2009-12-10,2020-01-10,49715000.0,49715000.0,Indexé,EURIBOR03M,-0.015,0.5452,Emprunt in fine,0
+2009,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2017-12-31,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,Helaba,2014-03-21,2029-03-21,25000000.0,25000000.0,Fixe,TAUX FIXE,2.84,2.8401,Emprunt in fine,1
+2012,16441 - Emprunts option tirage tréso,SOCIETE GENERALE,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2008,16311 - Emissions obligataires,HSBC,2005-11-09,2018-11-09,50651230.1,50651230.1,Indexé,EURIBOR03M,0.021,1.3865,Emprunt in fine,1
+2008,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1976-01-01,2024-06-15,59348.4,59348.4,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2010,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-02-14,24405125.08,24405125.08,Indexé,EURIBOR03M,-0.002,1.0934,Emprunt in fine,1
+2013,16441 - Emprunts option tirage tréso,SOCIETE GENERALE,2005-12-30,2013-12-30,50000000.0,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,0
+2014,1641 - Emprunts établissements crédit,BEI,2010-07-21,2023-07-21,100000000.0,100000000.0,Fixe,TAUX FIXE,3.451,3.4512,Emprunt in fine,0
+2013,1641 - Emprunts établissements crédit,CREDIT FONCIER,2003-12-22,2018-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.1776,1.3408,Emprunt in fine,1
+2011,1641 - Emprunts établissements crédit,C.D.C.,1954-11-23,2019-03-31,31064.74,7003.06,Fixe,TAUX FIXE,2.0,1.3381,Échéance constante,1
+2013,16311 - Emissions obligataires,Natixis,2013-04-30,2029-04-30,60000000.0,60000000.0,Indexé,EURIBOR03M,0.6930000000000001,0.7264,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Natixis,2013-12-12,2033-12-12,20000000.0,20000000.0,Fixe,TAUX FIXE,3.24,3.2401,Emprunt in fine,0
+2007,16311 - Emissions obligataires,HSBC-Natixis,2007-12-04,2020-12-04,160000000.0,160000000.0,Fixe,TAUX FIXE,4.5,4.5001,Emprunt in fine,1
+2008,16311 - Emissions obligataires,Natixis,2006-11-28,2019-11-28,100000000.0,100000000.0,Indexé,EURIBOR03M,-0.008,1.1258,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Crédit Agricole,2012-09-20,2026-01-20,100000000.0,100000000.0,Fixe,TAUX FIXE,2.909,2.9098,Emprunt in fine,1
+2012,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1976-01-01,2024-06-15,59348.4,59348.4,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2013,16311 - Emissions obligataires,Natixis,2013-12-12,2033-12-12,20000000.0,20000000.0,Fixe,TAUX FIXE,3.24,3.2401,Emprunt in fine,1
+2017,16311 - Emissions obligataires,92 - HSBC,2013-06-21,2028-06-21,75000000.0,75000000.0,Fixe,TAUX FIXE,2.886,2.8861,Emprunt in fine,0
+2013,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-01-14,24405125.08,24405125.08,Indexé,EURIBOR04M,0.021,1.1414,Emprunt in fine,1
+2007,16441 - Emprunts option tirage tréso,CREDIT AGRICOLE IDF,2005-12-30,2011-12-30,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,31 - Helaba,2014-03-21,2023-03-21,25000000.0,25000000.0,Fixe,TAUX FIXE,2.1,2.1005,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,BEI,2014-07-31,2023-07-31,130000000.0,130000000.0,Fixe,TAUX FIXE,1.454,1.4547,Emprunt in fine,0
+2009,16441 - Emprunts option tirage tréso,Caisse Nat. C.E.,2004-12-17,2012-12-17,75000000.0,75000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2009,16441 - Emprunts option tirage tréso,Caisse Nat. C.E.,2004-12-17,2010-12-17,75000000.0,75000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2013,1641 - Emprunts établissements crédit,BEI,2010-07-21,2023-07-21,100000000.0,100000000.0,Fixe,TAUX FIXE,3.451,3.4512,Emprunt in fine,1
+2010,16311 - Emissions obligataires,HSBC,2005-11-16,2015-11-16,14888865.0,14888865.0,Indexé,EURIBOR03M,-0.012,1.7396,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,Helaba,2014-07-11,2034-07-11,50000000.0,50000000.0,Fixe,TAUX FIXE,2.572,2.5721,Emprunt in fine,1
+2011,16311 - Emissions obligataires,HSBC,2005-11-09,2018-11-09,50651230.1,50651230.1,Indexé,EURIBOR03M,0.021,1.3865,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,Helaba,2015-01-13,2024-12-13,40000000.0,40000000.0,Fixe,TAUX FIXE,1.125,1.1259,Emprunt in fine,1
+2017,16441 - Emprunts option tirage tréso,3 - DEXIA CREDIT LOCAL,2007-12-31,2017-12-31,100000000.0,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2014,16311 - Emissions obligataires,Société Générale,2013-10-01,2026-10-01,75000000.0,75000000.0,Fixe,TAUX FIXE,3.049,3.0492,Emprunt in fine,0
+2007,1641 - Emprunts établissements crédit,CREDIT FONCIER,2003-12-22,2018-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.1776,1.3408,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2008-10-30,2021-10-29,155000000.0,155000000.0,Fixe,TAUX FIXE,4.75,4.7501,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,96 - BEI,2011-12-19,2024-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.36,3.3601,Emprunt in fine,0
+2014,1641 - Emprunts établissements crédit,Helaba,2014-07-11,2034-07-11,50000000.0,50000000.0,Fixe,TAUX FIXE,2.572,2.5721,Emprunt in fine,1
+2014,16876 - C.R.A.M.I.F / S.I.A.A.P.,S.I.A.A.P.,1976-01-01,2024-06-15,59348.4,59348.4,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,0
+2012,16441 - Emprunts option tirage tréso,CREDIT FONCIER,2005-12-30,2012-12-30,100000000.0,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2013,16311 - Emissions obligataires,HSBC,2012-04-02,2027-04-02,50000000.0,50000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC,2015-09-16,2030-09-16,50000000.0,50000000.0,Fixe,TAUX FIXE,1.724,1.7243,Emprunt in fine,0
+2010,16311 - Emissions obligataires,Crédit Suisse-BNPP,2008-11-05,2018-11-05,95328884.65,95328884.65,Indexé,EURIBOR03M,0.119,0.6826,Emprunt in fine,1
+2009,16311 - Emissions obligataires,BNP Paribas,2005-11-24,2014-11-24,96618357.49,96618357.49,Indexé,EURIBOR03M,0.101,1.9012,Emprunt in fine,1
+2016,16876 - C.R.A.M.I.F / S.I.A.A.P.,S.I.A.A.P.,1976-01-01,2024-06-15,59348.4,47478.72,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,0
+2010,16441 - Emprunts option tirage tréso,Caisse Nat. C.E.,2004-12-17,2012-12-17,75000000.0,75000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2007,1641 - Emprunts établissements crédit,C.D.C.,1954-12-21,2019-03-31,4278.21,1392.3,Fixe,TAUX FIXE,2.0,1.341,Échéance constante,1
+2007,16311 - Emissions obligataires,Calyon-Dexia,2006-11-28,2014-11-28,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8752,Emprunt in fine,1
+2014,16311 - Emissions obligataires,HSBC-Natixis,2006-05-26,2016-05-26,200000000.0,200000000.0,Fixe,TAUX FIXE,4.125,4.1252,Emprunt in fine,0
+2014,16311 - Emissions obligataires,Natixis,2013-12-12,2033-12-12,20000000.0,20000000.0,Fixe,TAUX FIXE,3.24,3.2401,Emprunt in fine,0
+2011,1641 - Emprunts établissements crédit,BEI,2011-12-19,2025-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.369,3.3692,Emprunt in fine,1
+2011,1641 - Emprunts établissements crédit,BEI,2008-11-25,2019-11-25,80000000.0,80000000.0,Indexé,EURIBOR03M,0.133,0.617,Emprunt in fine,1
+2015,1641 - Emprunts établissements crédit,C.D.C.,1954-11-23,2019-03-31,31064.74,3640.16,Fixe,TAUX FIXE,2.0,1.3381,Échéance constante,1
+2010,16311 - Emissions obligataires,HSBC,2005-11-09,2018-11-09,50651230.1,50651230.1,Indexé,EURIBOR03M,0.021,1.3865,Emprunt in fine,1
+2010,1641 - Emprunts établissements crédit,SOCIETE GENERALE,2005-12-28,2019-12-28,25000000.0,25000000.0,Indexé,TAG01M,0.0,1.0218,Emprunt in fine,1
+2012,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.36,3.3601,Emprunt in fine,1
+2013,1641 - Emprunts établissements crédit,BEI,2008-11-25,2019-11-25,80000000.0,80000000.0,Indexé,EURIBOR03M,0.133,0.617,Emprunt in fine,1
+2015,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2010-12-29,2025-12-29,140000000.0,140000000.0,Fixe,TAUX FIXE,3.875,3.8751,Emprunt in fine,0
+2012,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,100000000.0,100000000.0,Fixe,TAUX FIXE,3.781,3.7811,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Société Générale,2013-05-22,2028-05-22,50000000.0,50000000.0,Fixe,TAUX FIXE,2.43,2.4302,Emprunt in fine,0
+2008,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2001-07-24,2008-12-01,99091861.2,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2013,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1976-01-01,2024-06-15,59348.4,59348.4,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2015,1641 - Emprunts établissements crédit,BEI,2011-12-19,2024-12-19,100000000.0,100000000.0,Fixe,TAUX FIXE,3.781,3.7811,Emprunt in fine,0
+2016,16311 - Emissions obligataires,HSBC,2012-10-02,2023-10-02,30000000.0,30000000.0,Fixe,TAUX FIXE,2.6,2.6002,Emprunt in fine,0
+2015,1641 - Emprunts établissements crédit,SOCIETE GENERALE,2005-12-28,2019-12-28,25000000.0,25000000.0,Indexé,TAG01M,0.0,1.0218,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Natixis,2016-04-29,2029-04-30,26000000.0,26000000.0,Structuré,EURIBOR03M,0.0,0.0,Emprunt in fine,0
+2015,1641 - Emprunts établissements crédit,BEI,2010-07-21,2023-07-21,100000000.0,100000000.0,Fixe,TAUX FIXE,3.451,3.4512,Emprunt in fine,0
+2013,16311 - Emissions obligataires,HSBC,2012-10-26,2026-01-20,30000000.0,30000000.0,Fixe,TAUX FIXE,2.909,2.9097,Emprunt in fine,1
+2014,16311 - Emissions obligataires,HSBC,2005-11-16,2015-11-16,14888865.0,14888865.0,Indexé,EURIBOR03M,-0.084,1.7364000000000002,Emprunt in fine,0
+2014,16311 - Emissions obligataires,HSBC,2012-07-20,2032-07-20,50000000.0,50000000.0,Fixe,TAUX FIXE,3.5,3.5001,Emprunt in fine,0
+2014,16311 - Emissions obligataires,Natixis,2013-04-30,2032-04-30,15000000.0,15000000.0,Indexé,EURIBOR03M,0.651,0.6890000000000001,Emprunt in fine,0
+2012,16311 - Emissions obligataires,HSBC-Natixis,2006-05-26,2016-05-26,200000000.0,200000000.0,Fixe,TAUX FIXE,4.125,4.1252,Emprunt in fine,1
+2013,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2008-10-30,2021-10-29,155000000.0,155000000.0,Fixe,TAUX FIXE,4.75,4.7501,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Société Générale,2013-10-01,2027-10-01,125000000.0,125000000.0,Fixe,TAUX FIXE,3.155,3.1552,Emprunt in fine,1
+2008,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2008-10-30,2021-10-29,155000000.0,155000000.0,Fixe,TAUX FIXE,4.75,4.7501,Emprunt in fine,1
+2013,1641 - Emprunts établissements crédit,Helaba,2013-06-13,2028-06-13,25000000.0,25000000.0,Fixe,TAUX FIXE,2.81,2.8102,Emprunt in fine,1
+2016,16311 - Emissions obligataires,Société Générale,2013-10-01,2026-10-01,75000000.0,75000000.0,Fixe,TAUX FIXE,3.049,3.0492,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Barclays,2013-04-18,2031-04-18,25000000.0,25000000.0,Indexé,EURIBOR03M,0.269,0.355,Emprunt in fine,0
+2017,16311 - Emissions obligataires,89 - SocGen (arrangeur),2013-10-01,2027-10-01,125000000.0,125000000.0,Fixe,TAUX FIXE,3.155,3.1552,Emprunt in fine,0
+2016,16311 - Emissions obligataires,HSBC,2012-10-26,2026-01-20,30000000.0,30000000.0,Fixe,TAUX FIXE,2.909,2.9097,Emprunt in fine,0
+2014,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-01-14,24405125.08,24405125.08,Indexé,EURIBOR04M,-0.068,1.1249,Emprunt in fine,0
+2010,16441 - Emprunts option tirage tréso,CREDIT FONCIER,2005-12-30,2012-12-30,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Société Générale,2013-05-22,2028-05-22,50000000.0,50000000.0,Fixe,TAUX FIXE,2.43,2.4302,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC-Natixis-Banca IMI,2009-06-29,2022-06-29,200000000.0,200000000.0,Fixe,TAUX FIXE,4.625,4.6251,Emprunt in fine,0
+2011,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2009,16311 - Emissions obligataires,Dexia - Morgan Stanley,2005-06-24,2015-06-24,120000000.0,120000000.0,Fixe,TAUX FIXE,3.25,3.2502,Emprunt in fine,1
+2010,16311 - Emissions obligataires,HSBC-Natixis,2006-05-26,2016-05-26,200000000.0,200000000.0,Fixe,TAUX FIXE,4.125,4.1252,Emprunt in fine,1
+2014,16311 - Emissions obligataires,Goldman Sachs,2012-10-25,2029-10-25,70000000.0,70000000.0,Fixe,TAUX FIXE,3.02,3.0201,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Société Générale,2015-03-16,2030-05-25,110000000.0,110000000.0,Fixe,TAUX FIXE,1.214,1.2145,Emprunt in fine,0
+2011,16311 - Emissions obligataires,Crédit Suisse,2009-12-10,2020-01-10,49715000.0,49715000.0,Indexé,EURIBOR03M,0.385,0.7033,Emprunt in fine,1
+2017,16311 - Emissions obligataires,101 - Goldman Sachs,2012-10-25,2029-10-25,70000000.0,70000000.0,Fixe,TAUX FIXE,3.02,3.0201,Emprunt in fine,0
+2011,16311 - Emissions obligataires,Goldman Sachs,2011-11-25,2025-12-29,100000000.0,100000000.0,Fixe,TAUX FIXE,3.875,3.8757,Emprunt in fine,1
+2008,1641 - Emprunts établissements crédit,CREDIT AGRICOLE IDF,2003-12-22,2013-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.16,1.8763,Emprunt in fine,1
+2012,16311 - Emissions obligataires,Natixis-BNP,2012-12-19,2022-12-19,40000000.0,40000000.0,Indexé,EURIBOR03M,0.75,0.8057000000000001,Emprunt in fine,1
+2013,1641 - Emprunts établissements crédit,BEI,2011-12-19,2025-12-19,50000000.0,50000000.0,Fixe,TAUX FIXE,3.369,3.3692,Emprunt in fine,1
+2017,16311 - Emissions obligataires,10 - Natixis,2013-10-17,2028-06-21,50000000.0,50000000.0,Fixe,TAUX FIXE,2.886,2.8872,Emprunt in fine,0
+2016,1641 - Emprunts établissements crédit,BEI,2014-10-07,2021-10-07,70000000.0,70000000.0,Fixe,TAUX FIXE,0.77,0.7717,Emprunt in fine,0
+2016,16311 - Emissions obligataires,HSBC-Natixis,2007-12-04,2020-12-04,160000000.0,160000000.0,Fixe,TAUX FIXE,4.5,4.5001,Emprunt in fine,0
+2009,1641 - Emprunts établissements crédit,C.D.C.,1954-12-21,2019-03-31,4278.21,1182.6,Fixe,TAUX FIXE,2.0,1.341,Échéance constante,1
+2016,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2007-12-31,2017-12-31,100000000.0,35000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2016,1641 - Emprunts établissements crédit,Helaba,2014-07-11,2034-07-11,50000000.0,50000000.0,Fixe,TAUX FIXE,2.572,2.5721,Emprunt in fine,1
+2007,168 Autres emprunts et dettes assimilées,CAISSE NATION. ASSURANCE VIELL,1976-01-01,2008-10-31,71163.2,2372.09,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2007,1641 - Emprunts établissements crédit,CREDIT AGRICOLE IDF,2003-12-22,2013-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.16,1.8763,Emprunt in fine,1
+2012,16311 - Emissions obligataires,HSBC-Natixis-SociétéGénérale,2010-12-29,2025-12-29,140000000.0,140000000.0,Fixe,TAUX FIXE,3.875,3.8751,Emprunt in fine,1
+2008,16311 - Emissions obligataires,Crédit Suisse-BNPP,2008-11-05,2018-11-05,95328884.65,95328884.65,Indexé,EURIBOR03M,0.119,0.6826,Emprunt in fine,1
+2009,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2002-12-01,2009-12-01,120000000.0,0.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2015,16311 - Emissions obligataires,Goldman Sachs,2015-10-01,2030-05-25,40000000.0,40000000.0,Fixe,TAUX FIXE,1.214,1.2149,Emprunt in fine,0
+2011,16311 - Emissions obligataires,HSBC-Natixis,2007-12-04,2020-12-04,160000000.0,160000000.0,Fixe,TAUX FIXE,4.5,4.5001,Emprunt in fine,1
+2013,16311 - Emissions obligataires,HSBC-Natixis,2006-05-26,2016-05-26,200000000.0,200000000.0,Fixe,TAUX FIXE,4.125,4.1252,Emprunt in fine,1
+2007,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2011,16441 - Emprunts option tirage tréso,SOCIETE GENERALE,2005-12-30,2013-12-30,50000000.0,50000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2012,16311 - Emissions obligataires,HSBC,2011-12-29,2026-12-29,21000000.0,21000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,1
+2014,16311 - Emissions obligataires,Crédit Agricole,2012-09-20,2026-01-20,100000000.0,100000000.0,Fixe,TAUX FIXE,2.909,2.9098,Emprunt in fine,0
+2013,16311 - Emissions obligataires,HSBC,2005-11-09,2018-11-09,50651230.1,50651230.1,Indexé,EURIBOR03M,0.021,1.3865,Emprunt in fine,1
+2014,16311 - Emissions obligataires,HSBC,2012-10-02,2023-10-02,30000000.0,30000000.0,Fixe,TAUX FIXE,2.6,2.6002,Emprunt in fine,0
+2010,1641 - Emprunts établissements crédit,BNP Paribas,2002-12-27,2017-12-27,110000000.0,110000000.0,Indexé,T4M,0.0013,1.6055,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,5 - Gr.C.E.: CREDIT FONCIER,2003-12-22,2018-12-22,40000000.0,40000000.0,Indexé,TAG12M,0.0,1.2946,Emprunt in fine,1
+2017,1641 - Emprunts établissements crédit,96 - BEI,2008-11-25,2019-11-25,80000000.0,80000000.0,Indexé,EURIBOR03M,0.0,0.5649000000000001,Emprunt in fine,0
+2015,16311 - Emissions obligataires,Crédit Agricole,2015-09-29,2037-09-29,20000000.0,20000000.0,Fixe,TAUX FIXE,2.08,2.0802,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,96 - BEI,2015-12-22,2022-12-22,60000000.0,60000000.0,Fixe,TAUX FIXE,0.492,0.4948,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,31 - Helaba,2014-07-11,2034-07-11,50000000.0,50000000.0,Fixe,TAUX FIXE,2.572,2.5721,Emprunt in fine,1
+2012,16311 - Emissions obligataires,HSBC,2012-04-02,2027-04-02,50000000.0,50000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,1
+2014,16311 - Emissions obligataires,BRED,2014-07-15,2028-12-15,50000000.0,50000000.0,Fixe,TAUX FIXE,2.28,2.2807,Emprunt in fine,0
+2015,16311 - Emissions obligataires,HSBC,2014-03-21,2029-12-14,50000000.0,50000000.0,Fixe,TAUX FIXE,2.85,2.8507,Emprunt in fine,0
+2009,1641 - Emprunts établissements crédit,DEXIA CREDIT LOCAL,2003-12-22,2013-12-22,35000000.0,35000000.0,Indexé,TAG06M,0.1581,1.9644,Emprunt in fine,1
+2014,1641 - Emprunts établissements crédit,Helaba,2014-03-21,2029-03-21,25000000.0,25000000.0,Fixe,TAUX FIXE,2.84,2.8401,Emprunt in fine,1
+2012,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1974-01-01,2021-06-15,26266.97,23640.27,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2014,1641 - Emprunts établissements crédit,Helaba,2014-03-21,2023-03-21,25000000.0,25000000.0,Fixe,TAUX FIXE,2.1,2.1005,Emprunt in fine,1
+2017,16311 - Emissions obligataires,108 - HSBC-SG-CA,2017-11-20,2034-11-20,320000000.0,320000000.0,Fixe,TAUX FIXE,1.375,1.3753,Emprunt in fine,0
+2017,16311 - Emissions obligataires,105 - Barclays,2013-04-18,2031-04-18,25000000.0,25000000.0,Indexé,EURIBOR03M,0.271,0.3564,Emprunt in fine,0
+2017,1641 - Emprunts établissements crédit,2 - C.D.C.,1955-10-25,2020-03-31,5328.64,467.92,Fixe,TAUX FIXE,2.0,1.3806,Échéance constante,1
+2016,1641 - Emprunts établissements crédit,C.D.C.,1954-11-23,2019-03-31,31064.74,2756.98,Fixe,TAUX FIXE,2.0,1.3381,Échéance constante,1
+2017,1641 - Emprunts établissements crédit,96 - BEI,2011-12-19,2024-12-19,100000000.0,100000000.0,Fixe,TAUX FIXE,3.781,3.7811,Emprunt in fine,0
+2016,16311 - Emissions obligataires,Natixis,2013-04-30,2029-04-30,60000000.0,60000000.0,Indexé,EURIBOR03M,0.311,0.4068,Emprunt in fine,0
+2017,16311 - Emissions obligataires,101 - Goldman Sachs,2016-07-05,2030-05-25,50000000.0,50000000.0,Fixe,TAUX FIXE,1.214,1.2147,Emprunt in fine,0
+2017,16311 - Emissions obligataires,15 - Crédit Suisse,2007-12-14,2017-02-14,24405125.08,0.0,Indexé,EURIBOR03M,-0.362,1.0522,Emprunt in fine,0
+2017,16311 - Emissions obligataires,108 - HSBC-SG-CA,2015-11-18,2031-05-25,300000000.0,300000000.0,Fixe,TAUX FIXE,1.75,1.7507,Emprunt in fine,0
+2008,16441 - Emprunts option tirage tréso,DEXIA CREDIT LOCAL,2002-12-01,2009-12-01,120000000.0,120000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2015,16311 - Emissions obligataires,HSBC,2012-04-02,2027-04-02,50000000.0,50000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2008,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1974-01-01,2021-06-15,26266.97,26266.97,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2010,168 Autres emprunts et dettes assimilées,CAISSE NATION. ASSURANCE VIELL,1978-01-01,2010-10-31,269850.92,0.0,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2008,16441 - Emprunts option tirage tréso,CREDIT AGRICOLE IDF,2005-12-30,2011-12-30,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2008,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-02-14,24405125.08,24405125.08,Indexé,EURIBOR03M,-0.002,1.0934,Emprunt in fine,1
+2016,16311 - Emissions obligataires,HSBC,2012-04-02,2027-04-02,50000000.0,50000000.0,Fixe,TAUX FIXE,4.0,4.0001,Emprunt in fine,0
+2017,16311 - Emissions obligataires,89 - SocGen (arrangeur),2013-05-22,2028-05-22,50000000.0,50000000.0,Fixe,TAUX FIXE,2.43,2.4302,Emprunt in fine,0
+2011,1641 - Emprunts établissements crédit,C.D.C.,1955-10-25,2020-03-31,5328.64,1324.44,Fixe,TAUX FIXE,2.0,1.3806,Échéance constante,1
+2009,16441 - Emprunts option tirage tréso,CREDIT FONCIER,2005-12-30,2012-12-30,100000000.0,100000000.0,Fixe,TAUX FIXE,0.0,0.0,Emprunt in fine,1
+2013,1641 - Emprunts établissements crédit,C.D.C.,1955-10-25,2020-03-31,5328.64,1050.16,Fixe,TAUX FIXE,2.0,1.3806,Échéance constante,1
+2017,16311 - Emissions obligataires,109 - HSBC-Natixis-Citi,2016-04-06,2032-01-12,300000000.0,300000000.0,Fixe,TAUX FIXE,1.25,1.2503,Emprunt in fine,0
+2011,168 Autres emprunts et dettes assimilées,S.I.A.A.P.,1976-01-01,2024-06-15,59348.4,59348.4,Fixe,TAUX FIXE,0.0,0.0,Échéance constante,1
+2014,16311 - Emissions obligataires,Citi,2013-12-11,2029-01-15,60000000.0,60000000.0,Fixe,TAUX FIXE,3.0,3.0001,Emprunt in fine,0
+2016,1641 - Emprunts établissements crédit,C.D.C.,2016-11-30,2042-03-01,30000000.0,30000000.0,Fixe,TAUX FIXE,1.471856,1.4857,Échéance constante,0
+2014,1641 - Emprunts établissements crédit,BEI,2014-10-07,2021-10-07,70000000.0,70000000.0,Fixe,TAUX FIXE,0.77,0.7717,Emprunt in fine,0
+2008,16311 - Emissions obligataires,BNP Paribas,2005-11-24,2014-11-24,96618357.49,96618357.49,Indexé,EURIBOR03M,0.101,1.9012,Emprunt in fine,1
+2012,16311 - Emissions obligataires,HSBC,2012-10-26,2026-01-20,30000000.0,30000000.0,Fixe,TAUX FIXE,2.909,2.9097,Emprunt in fine,1
+2013,16311 - Emissions obligataires,Crédit Suisse-BNPP,2008-11-05,2018-11-05,95328884.65,95328884.65,Indexé,EURIBOR03M,0.119,0.6826,Emprunt in fine,1
+2008,16311 - Emissions obligataires,HSBC,2005-11-16,2015-11-16,14888865.0,14888865.0,Indexé,EURIBOR03M,-0.012,1.7396,Emprunt in fine,1
+2010,16311 - Emissions obligataires,Crédit Suisse,2007-12-14,2017-01-14,24405125.08,24405125.08,Indexé,EURIBOR04M,0.021,1.1414,Emprunt in fine,1
